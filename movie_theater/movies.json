@@ -49,6 +49,20 @@
                 "3:00 PM",
                 "11:00 PM"
             ]
+        },
+        "Babadook": {
+            "title": "Babadook",
+            "rating": "PG-13",
+            "genre": "Sci-Fi",
+            "runtime": "1hr20m",
+            "showtimes": [
+                "11:00 AM",
+                "12:15 PM",
+                "2:15 PM",
+                "3:30 PM",
+                "4:15 PM",
+                "6:15 PM"
+            ]
         }
     }
 }

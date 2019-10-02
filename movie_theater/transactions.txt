@@ -1,3 +1,10 @@
 movie, showtime, type of show, # of tickets, total purchase
 Avengers Infinity War, 6:15 PM, regular, 1, 5.25
 Avengers Age of Ultron, 2:45 PM, matinee, 3, 10.50
+The Avengers, 11:00 AM, matinee, 2, 7.00
+The Avengers, 11:00 AM, matinee, 5, 17.50
+The Avengers, 11:00 AM, matinee, 2, 7.00
+Avengers Infinity War, 6:15 PM, regular, 5, 26.25
+Avengers Age of Ultron, 7:45 PM, regular, 34567, 181476.75
+Babadook, 6:15 PM, regular, 23, 120.75
+Babadook, 4:15 PM, regular, 3, 15.75
