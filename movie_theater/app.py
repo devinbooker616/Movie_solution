@@ -3,6 +3,7 @@ import json
 MOVIES_FILENAME = "./movies.json"
 TRANSACTIONS_FILENAME = "./transactions.txt"
 
+
 MATINEE_TICKET_PRICE = 3.50
 REGULAR_TICKET_PRICE = 5.25
 
